@@ -8,7 +8,7 @@
 3. 
 
 #### Bilder
-1. Abb. 1. [Papyrus Edwin Smith.] (https://de.wikipedia.org/wiki/Papyrus_Edwin_Smith) (18.09.2018)
+1. Abb. 1. [Papyrus Edwin Smith.](https://de.wikipedia.org/wiki/Papyrus_Edwin_Smith) (18.09.2018)
 2. Abb. 2. [Hipokrates.] 
 3. Abb. 3. [Bartholomäus-Krankenhaus in London.]https://www.british-history.ac.uk/old-new-london/vol2/pp359-363 (18.09.2018)
 4. Abb. 4. [Röntgen of Albert von Kölliker's hand.](https://de.wikipedia.org/wiki/Datei:X-ray_by_Wilhelm_R%C3%B6ntgen_of_Albert_von_K%C3%B6lliker%27s_hand_-_18960123-02.jpg) (18.09.2018)

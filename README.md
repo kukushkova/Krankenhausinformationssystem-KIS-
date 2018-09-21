@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Projekt Medizinische Dokumentation von früher bis heute.
 
-You can use the [editor on GitHub](https://github.com/kukushkova/Krankenhausinformationssystem-KIS-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- Literature
+1.
+2.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Bilder
+1.
+2.
 
 ### Markdown
 
@@ -16,9 +20,9 @@ Syntax highlighted code block
 ### Header 3
 
 - Bulleted
-- List
+- 
 
-1. Numbered
+1. 
 2. List
 
 **Bold** and _Italic_ and `Code` text

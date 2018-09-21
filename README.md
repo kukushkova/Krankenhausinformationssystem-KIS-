@@ -7,6 +7,8 @@
 2. [Geschichte der medizinischen Strahlung](http://www.medizinischestrahlung.de/fakten-zum-thema-strahlung/geschichte-der-medizinischen-strahlung/) (18.09.2018)
 3. [Medizinische Dokumentation](https://de.wikipedia.org/wiki/Medizinische_Dokumentation) (18.09.2018)
 4. [Blockchain](https://de.wikipedia.org/wiki/Blockchain) (18.09.2018)
+5. [50 Jahre IMIS – Institut für Medizinische Informatik und Statistik im Klinikum der Christian-Albrechts-Universität zu Kiel.
+J. Hedderich, S. Konrad, M. Krawczak](https://www.uni-kiel.de/medinfo/institut/geschichte/) (18.09.2018)
 
 #### Bilder
 1. Abb. 1. [Papyrus Edwin Smith.](https://de.wikipedia.org/wiki/Papyrus_Edwin_Smith) (18.09.2018)
@@ -17,7 +19,7 @@
 6. Abb. 6. [Serverschränke](https://ethianum-klinik-heidelberg.de/die-gruene-klinik-in-heidelberg.html) (18.09.2018)
 7. [Graphics by rawpixel.com / Freepik](http://www.freepik.com) (18.09.2018)
 8. Abb. 7. [Blockchain](https://pixabay.com/en/blockchain-cryptocurrency-network-3277336/) (18.09.2018)
-
+9. Abb. 8. [Monitor And Computer](http://www.clker.com/clipart-12306.html) (18.09.2018)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

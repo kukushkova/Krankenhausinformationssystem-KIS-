@@ -1,20 +1,21 @@
 ## Projekt Medizinische Dokumentation von früher bis heute.
 
-- Literature
-1.  Historie der Medizinischen Informatik in Deutschland von den Anfängen bis 1980. Claus O. Köhler .http://www.informierung.de/cokoehler/HistorieMI_Koehler_text.pdf (18.09.2018) 
+### Quellen
+
+- Literatur
+1. [Historie der Medizinischen Informatik in Deutschland von den Anfängen bis 1980. Claus O. Köhler](http://www.informierung.de/cokoehler/HistorieMI_Koehler_text.pdf). (18.09.2018) 
 2. http://www.medizinischestrahlung.de/fakten-zum-thema-strahlung/geschichte-der-medizinischen-strahlung/ (18.09.2018)
 3. 
 
 - Bilder
 1. Abb. 1. Papyrus Edwin Smith. https://de.wikipedia.org/wiki/Papyrus_Edwin_Smith (18.09.2018)
-2. Abb. 1. Bartholomäus-Krankenhaus in London. https://www.british-history.ac.uk/old-new-london/vol2/pp359-363 (18.09.2018)
-3. Abb. 3. . https://www.british-history.ac.uk/old-new-london/vol2/pp359-363
-4. Abb. 1. 
-5. Abb. 1. 
-6. Abb. 1. 
-7. Abb. 1. 
+2. Abb. 2. Hipokrates. 
+3. Abb. 3. Bartholomäus-Krankenhaus in London.https://www.british-history.ac.uk/old-new-london/vol2/pp359-363 (18.09.2018)
+4. Abb. 4. Röntgen of Albert von Kölliker's hand. https://de.wikipedia.org/wiki/Datei:X-ray_by_Wilhelm_R%C3%B6ntgen_of_Albert_von_K%C3%B6lliker%27s_hand_-_18960123-02.jpg (18.09.2018)
+5. Abb. 5. Photo Elektronische Rechenanlage vom Typ IBM 350-60. 
+6. Abb. 6. 
+7. Abb. 7. 
 
-### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

@@ -5,7 +5,7 @@
 #### Literatur
 1. [Historie der Medizinischen Informatik in Deutschland von den Anfängen bis 1980. Claus O. Köhler](http://www.informierung.de/cokoehler/HistorieMI_Koehler_text.pdf). (18.09.2018) 
 2. [Geschichte der medizinischen Strahlung](http://www.medizinischestrahlung.de/fakten-zum-thema-strahlung/geschichte-der-medizinischen-strahlung/) (18.09.2018)
-3. 
+3. [Medizinische Dokumentation](https://de.wikipedia.org/wiki/Medizinische_Dokumentation) (18.09.2018)
 
 #### Bilder
 1. Abb. 1. [Papyrus Edwin Smith.](https://de.wikipedia.org/wiki/Papyrus_Edwin_Smith) (18.09.2018)

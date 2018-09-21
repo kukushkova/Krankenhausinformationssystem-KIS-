@@ -14,7 +14,7 @@
 4. Abb. 4. [Röntgen of Albert von Kölliker's hand.](https://de.wikipedia.org/wiki/Datei:X-ray_by_Wilhelm_R%C3%B6ntgen_of_Albert_von_K%C3%B6lliker%27s_hand_-_18960123-02.jpg) (18.09.2018)
 5. Abb. 5. [Photo Elektronische Rechenanlage vom Typ IBM 350-60.] 
 6. Abb. 6. [Serverschränke](https://ethianum-klinik-heidelberg.de/die-gruene-klinik-in-heidelberg.html) (18.09.2018)
-7. Abb. 7. [Graphics by rawpixel.com / Freepik](http://www.freepik.com) (18.09.2018)
+7. [Graphics by rawpixel.com / Freepik](http://www.freepik.com) (18.09.2018)
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

@@ -6,6 +6,7 @@
 1. [Historie der Medizinischen Informatik in Deutschland von den Anfängen bis 1980. Claus O. Köhler](http://www.informierung.de/cokoehler/HistorieMI_Koehler_text.pdf). (18.09.2018) 
 2. [Geschichte der medizinischen Strahlung](http://www.medizinischestrahlung.de/fakten-zum-thema-strahlung/geschichte-der-medizinischen-strahlung/) (18.09.2018)
 3. [Medizinische Dokumentation](https://de.wikipedia.org/wiki/Medizinische_Dokumentation) (18.09.2018)
+4. [Blockchain](https://de.wikipedia.org/wiki/Blockchain) (18.09.2018)
 
 #### Bilder
 1. Abb. 1. [Papyrus Edwin Smith.](https://de.wikipedia.org/wiki/Papyrus_Edwin_Smith) (18.09.2018)
@@ -15,6 +16,7 @@
 5. Abb. 5. [Photo Elektronische Rechenanlage vom Typ IBM 350-60.] 
 6. Abb. 6. [Serverschränke](https://ethianum-klinik-heidelberg.de/die-gruene-klinik-in-heidelberg.html) (18.09.2018)
 7. [Graphics by rawpixel.com / Freepik](http://www.freepik.com) (18.09.2018)
+8. [Blockchain](https://pixabay.com/en/blockchain-cryptocurrency-network-3277336/) (18.09.2018)
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

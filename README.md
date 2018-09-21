@@ -2,12 +2,13 @@
 
 - Literature
 1.  Historie der Medizinischen Informatik in Deutschland von den Anfängen bis 1980. Claus O. Köhler .http://www.informierung.de/cokoehler/HistorieMI_Koehler_text.pdf (18.09.2018) 
-2. jkhjkhjkhjk
+2. http://www.medizinischestrahlung.de/fakten-zum-thema-strahlung/geschichte-der-medizinischen-strahlung/ (18.09.2018)
+3. 
 
 - Bilder
 1. Abb. 1. Papyrus Edwin Smith. https://de.wikipedia.org/wiki/Papyrus_Edwin_Smith (18.09.2018)
-2. Abb. 1. 
-3. Abb. 1. 
+2. Abb. 1. Bartholomäus-Krankenhaus in London. https://www.british-history.ac.uk/old-new-london/vol2/pp359-363 (18.09.2018)
+3. Abb. 3. . https://www.british-history.ac.uk/old-new-london/vol2/pp359-363
 4. Abb. 1. 
 5. Abb. 1. 
 6. Abb. 1. 

@@ -16,7 +16,7 @@
 5. Abb. 5. [Photo Elektronische Rechenanlage vom Typ IBM 350-60.](https://www.uni-kiel.de/medinfo/institut/geschichte/) (18.09.2018)
 6. Abb. 6. [Serverschränke](https://ethianum-klinik-heidelberg.de/die-gruene-klinik-in-heidelberg.html) (18.09.2018)
 7. [Graphics by rawpixel.com / Freepik](http://www.freepik.com) (18.09.2018)
-8. [Blockchain](https://pixabay.com/en/blockchain-cryptocurrency-network-3277336/) (18.09.2018)
+8. Abb. 7. [Blockchain](https://pixabay.com/en/blockchain-cryptocurrency-network-3277336/) (18.09.2018)
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
